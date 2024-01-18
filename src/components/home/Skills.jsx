@@ -42,7 +42,7 @@ const Skills = React.forwardRef(({ heading, programmingLanguages, tools }, ref) 
           </Tab>
           <Tab
             tabClassName="skills-tab lead"
-            eventKey="soft-skills"
+            eventKey="tools"
             title="Tools and Frameworks"
           >
             <Row className="pt-3 px-1">
