@@ -114,7 +114,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for an opportunity to work as a Software Engineer in a challenging and highly technical environment in Singapore! If you know of any positions available, if you have any questions, please feel free to email me at",
+    "I'm currently looking for an opportunity as a Full-stack/Backend Software Engineer in Singapore! If you have any position available, or if you have any question, please feel free to email me at ",
   email: "thhoang1111999@gmail.com",
 };
 

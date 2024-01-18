@@ -12,6 +12,7 @@ const Footer = (props) => {
         <a
           rel="noopener"
           href="https://github.com/TranHuuHoang"
+          target="_blank"
           aria-label="My GitHub"
         > <span className="badge bg-dark">
             Tran Huu Hoang
